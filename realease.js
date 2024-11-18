@@ -1,0 +1,3 @@
+function isRealease(){
+    return true;
+}
